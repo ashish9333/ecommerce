@@ -1,0 +1,13 @@
+{
+    "name": "ecommerce",
+    "version": "1.0.0",
+    "description": "E-commerce",
+    "main": "server/server.js",
+    "scripts": {
+      "start": "node server/server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
